@@ -1,0 +1,18 @@
+{
+  "routes": [{
+    "path": "/",
+    "componentName": "Homepage"
+  }, {
+    "path": "/login",
+    "componentName": "Login"
+  }, {
+    "path": "/signup",
+    "componentName": "SignUp"
+  }, {
+    "path": "/aboutus",
+    "componentName": "AboutUs"
+  }, {
+    "path": "/terms",
+    "componentName": "TermsAndConditions"
+  }]
+}
