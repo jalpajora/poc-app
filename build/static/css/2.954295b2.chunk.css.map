@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://node_modules/poc-core-library/dist/AppLayout/styles.css"],"names":[],"mappings":"AAAA,KACE,qBAAsB,CACtB,SAAU,CACV,QACF,CAEA,KACE,cACF","file":"2.954295b2.chunk.css","sourcesContent":["body {\n  box-sizing: border-box;\n  padding: 0;\n  margin: 0;\n}\n\n.app {\n  font-size: 16px;\n}\n"]}
