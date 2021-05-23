@@ -1,5 +1,5 @@
 import './App.css';
-import { MainLayout } from 'poc-core-library/dist/MainLayout';
+import { AppLayout } from 'poc-core-library/dist/AppLayout';
 import AppRouter from './components/AppRouter';
 
 import {
@@ -37,13 +37,11 @@ const Footer = () => (
 
 function App() {
   return (
-    <MainLayout>
-      {[
-        <Header />,
-        <Content />,
-        <Footer />
-      ]}
-    </MainLayout>
+    <AppLayout>
+      <Header />
+      <Content />
+      <Footer />
+    </AppLayout>
   );
 }
 
